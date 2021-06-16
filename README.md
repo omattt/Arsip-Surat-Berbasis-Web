@@ -29,3 +29,7 @@ Pada perancangan dan pembuatan sistem ini mencakup beberapa hal. Agar permasalah
 
 ## Solusi Singkat
 Solusi yang penulis berikan terhadap permasalahan di atas yaitu dengan membuat suatu aplikasi arsip surat berbasis web yang nantinya aplikasi ini dapat diakses oleh admin untuk melihat sistem dan penyimpanan data arsip, selain itu masyarakat umum juga dapat mengakses aplikasi ini hanya untuk menyimpan arsip dan melihat arsipnya kapanpun.Hal ini dapat memberikan kemudahan dalam proses menyimpan arsip-arsip surat mereka dengan aman.
+
+## Skema Basis Data
+### Entity-Relational Diagram
+### Diagram Skematik
