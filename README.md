@@ -15,3 +15,17 @@ Rumusan masalah yang dibahas dalam proyek akhir ini yaitu:
 1. Sistem pengarsipan secara manual, saat ini masih banyak digunakan.
 2. Kurangnya keamanan dan efisiensi dari sistem pengarsipan manual.
 
+## Tujuan
+Tujuan dari pembuatan arsip surat berbasis website ini adalah sebagai berikut:
+1. Memberikan efisiensi dan efektifitas waktu, tenaga, dan upaya dalam proses pengarsipan
+2. Mengamankan arsip dari kemungkinan tercecer maupun rusak karena bencana alam
+3. Memudahkan dalam proses mencari arsip-arsip lama
+
+## Batasan Masalah
+Pada perancangan dan pembuatan sistem ini mencakup beberapa hal. Agar permasalahan tidak meluas maka perlu adanya batasan masalah yang akan dibahas yaitu sebagai berikut:  
+1. Sistem ini dibangun dengan menggunakan bahasa pemrograman PHP dan untuk Database menggunakan MYSQL.  
+2. Sistem ini dibuat untuk memberikan kemudahan dalam melakukan pengarsipan surat berbasis web.  
+3. Sistem ini hanya dapat diakses oleh admin website yang telah terdaftar dalam database
+
+## Solusi Singkat
+Solusi yang penulis berikan terhadap permasalahan di atas yaitu dengan membuat suatu aplikasi arsip surat berbasis web yang nantinya aplikasi ini dapat diakses oleh admin untuk melihat sistem dan penyimpanan data arsip, selain itu masyarakat umum juga dapat mengakses aplikasi ini hanya untuk menyimpan arsip dan melihat arsipnya kapanpun.Hal ini dapat memberikan kemudahan dalam proses menyimpan arsip-arsip surat mereka dengan aman.
