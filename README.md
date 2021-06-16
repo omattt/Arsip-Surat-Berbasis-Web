@@ -32,3 +32,5 @@ Solusi yang penulis berikan terhadap permasalahan di atas yaitu dengan membuat s
 
 ## Entity-Relational Diagram
 ![ERD](https://user-images.githubusercontent.com/85796311/122155433-2ae28480-ce91-11eb-9090-325b2db28f1a.png)
+
+## Hasil Implementasi
