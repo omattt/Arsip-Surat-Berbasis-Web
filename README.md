@@ -40,3 +40,4 @@ Solusi yang penulis berikan terhadap permasalahan di atas yaitu dengan membuat s
 ![Diagram Skematik1](https://user-images.githubusercontent.com/85796311/122408959-f5cb5480-cfac-11eb-8a59-970b3a5f32a0.png)
 
 ### Hasil Implementasi
+https://youtu.be/zL8JZWquYzs
